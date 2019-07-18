@@ -1,0 +1,848 @@
+1. 대화를 듣고, 여자의 마지막 말에 대한 남자의 응답으로 가장
+적절한 것을 고르시오. 
+① Good idea. I\’ll work on the music, too.
+② Okay. That\’s a nice title for the video.
+③ Fantastic. You did a great presentation.
+④ I\’m so sorry. I forgot to open the files.
+⑤ No problem. I\’ll watch them without subtitles.
+2. 대화를 듣고, 남자의 마지막 말에 대한 여자의 응답으로 가장
+적절한 것을 고르시오. 
+① I miss him, too. He\’s my favorite teacher.
+② When should we visit him in the hospital?
+③ Don\’t worry. Doctors say that he\’s all right.
+④ Why don\’t we write a card and give it to him?
+⑤ I\’m afraid he\’s not well enough to teach again.
+3. 다음을 듣고, 여자가 하는 말의 목적으로 가장 적절한 것을 고
+르시오. ① 새로 출시된 음악 교육용 앱을 홍보하려고
+② 음악 프로젝트의 결과물 제출 방법을 설명하려고
+③ 컴퓨터 프로그램을 활용한 음악 수업을 소개하려고
+④ 자기 주도 학습을 위한 스마트폰 활용을 권장하려고
+⑤ 프로젝트용 태블릿 컴퓨터 사용 시 주의 사항을 안내하려고
+4. 대화를 듣고, 남자의 의견으로 가장 적절한 것을 고르시오. ① 환기를 위해 겨울에도 교실 창문을 자주 열어야 한다. ② 학교 난방 온도를 조절하여 전기 요금을 절약해야 한다. ③ 학급 회의를 통해 교실 환경 개선 방안을 논의해야 한다. ④ 교실 공기의 질 개선을 위해 공기 청정기를 설치해야 한다. ⑤ 실내 미세 먼지 농도를 낮추기 위해 청소를 자주 해야 한다.
+5. 대화를 듣고, 두 사람의 관계를 가장 잘 나타낸 것을 고르시오. ① 심리 상담사 - 상담 의뢰인
+② 애완견 조련사 - 애완견 주인
+③ 동물 보호소 직원 - 동물 입양 희망자
+④ 산부인과 의사 - 신생아 아버지
+⑤ 수의사 - 애견 카페 주인
+6. 대화를 듣고, 그림에서 대화의 내용과 일치하지 <span style=\"text-decoration:underline;\">않는</span> 것을 고
+르시오. 
+① 1 ② 2 ③ 3 ④ 4 ⑤ 5 
+7. 대화를 듣고, 여자가 할 일로 가장 적절한 것을 고르시오. ① 일식 장면 촬영하기
+② 일식 시작 시간 알아보기
+③ 일식 관측용 안경 주문하기
+④ 비디오카메라 빌려오기
+⑤ 일기 예보 확인하기
+8. 대화를 듣고, 남자가 긴소매 셔츠를 입은 이유를 고르시오. ① 감기가 낫지 않아서
+② 긁힌 상처를 보호하려고
+③ 햇빛 알레르기가 있어서
+④ 장시간 자전거를 타야 해서
+⑤ 도서관의 실내 온도가 낮아서
+9. 대화를 듣고, 여자가 지불할 금액을 고르시오[3점]. 
+① $32 ② $34 ③ $36 ④ $38 ⑤ $40
+10. 대화를 듣고, Student Exchange Program에 관해 언급되지 <span style=\"text-decoration:underline;\">않은</span> 것을 고르시오. ① 숙박 장소 ② 활동 내용
+③ 활동 기간 ④ 참가 인원
+⑤ 지원 방법
+11. The 7th Kids\’ Day in the Park에 관한 다음 내용을 듣고, 일
+치하지 <span style=\"text-decoration:underline;\">않는</span> 것을 고르시오. ① 오후 1시부터 오후 5시까지 진행된다. ② 가장행렬과 함께 시작된다. ③ Rose Garden에서 춤과 공연을 즐길 수 있다. ④ 최신 장난감이 보물찾기의 상품으로 주어진다. ⑤ 기부금은 어린이 도서관 건립에 쓰인다.
+12. 다음 표를 보면서 대화를 듣고, 남자가 선택한 스노클링 세트
+를 고르시오. 
+	<table class=\"joe_table\">
+		<caption>Snorkeling Sets</caption>
+		<thead>
+			<tr> <th>Model</th> <th>Snorkel Type</th> <th>Mask Lens</th> <th>Strap</th> <th>Price</th> </tr>
+		</thead>
+		<tbody>
+			<tr> <td>A</td> <td>Classic</td> <td>One</td> <td>○</td> <td>$25</td> </tr>
+			<tr> <td>B</td> <td>Classic</td> <td>Two</td> <td>×</td> <td>$30</td> </tr>
+			<tr> <td>C</td> <td>Dry</td> <td>One</td> <td>○</td> <td>$32</td> </tr>
+			<tr> <td>D</td> <td>Dry</td> <td>Two</td> <td>×</td> <td>$35</td> </tr>
+			<tr> <td>E</td> <td>Dry</td> <td>Two</td> <td>○</td> <td>$40</td> </tr>
+		</tbody>
+	</table>
+	① A ② B ③ C ④ D ⑤ E 
+13. 대화를 듣고, 남자의 마지막 말에 대한 여자의 응답으로 가장
+적절한 것을 고르시오[3점]. 
+Woman:____________________________
+① I\’m sorry. The campaign is already over.
+② Sure. More eyes will find more good spots.
+③ All right. I\’ll think about joining the campaign.
+④ Never mind. I\’d better go and finish my project.
+⑤ I agree. Angles are important when taking selfies.
+14. 대화를 듣고, 여자의 마지막 말에 대한 남자의 응답으로 가장
+적절한 것을 고르시오[3점]. 
+Man:____________________________
+① That\’s why I don\’t let her eat cookies.
+② You should\’ve checked the tips in the article.
+③ You need to calm down first and tell me why.
+④ I\’m sorry. I promise that I won\’t tell a lie again.
+⑤ I got it. I\’ll keep that in mind next time she tells a lie.
+15. 다음 상황 설명을 듣고, Kate가 Troy에게 할 말로 가장 적절
+한 것을 고르시오. 
+Kate:____________________________
+① I think you should take the bus instead of a taxi.
+② I\’ll give you a ride to your office for today.
+③ Let\’s just hope the subway will move again.
+④ The subway would be faster than the car.
+⑤ You can use this new app to call a taxi.
+
+16. 남자가 하는 말의 주제로 가장 적절한 것은?
+① eating tips for increasing productivity
+② ways to avoid eating unhealthy snacks
+③ importance of having breakfast regularly
+④ late night eating habits that lead to obesity
+⑤ relationships between diet and mood change
+17. 언급된 식품이 <span style=\"text-decoration:underline;\">아닌</span> 것은?
+① yogurt ② cereal ③ cheese ④ bananas ⑤ nuts
+이제 듣기 문제가 끝났습니다. 18번부터는 문제지의 지시
+에 따라 답을 하시기 바랍니다.
+18. 다음 글의 목적으로 가장 적절한 것은?
+<div class=\"joe_example_box\">
+ We are reaching out to you because GeoWeb recently
+learned about a security incident potentially affecting the
+accounts of GeoWeb users. We promptly hired leading
+information security experts to investigate this incident
+and reported the incident to law enforcement. Our
+investigation has now confirmed that user names, email
+addresses, and passwords were acquired by an
+unauthorized third party. We have no indication at this
+time that any user passwords have been used illegally,
+but we strongly recommend that all users reset their
+passwords as soon as possible. If you used the same
+password on any other site, we encourage you to change
+your password there as well.
+</div>
+① 웹 사이트의 개인 정보 유출에 따른 대처법을 안내하려고
+② 보안 강화를 위한 웹 사이트 임시 폐쇄를 공지하려고
+③ 컴퓨터 보안 프로그램의 업그레이드를 권고하려고
+④ 웹 사이트 회원의 주소 업데이트를 요청하려고
+⑤ 네트워크 보안 서비스 업체를 홍보하려고
+
+19. 다음 글에 드러난 \‘I\’의 심경 변화로 가장 적절한 것은?
+One time, my boss and I were sitting around the table and
+I pitched an idea about the trend of screenplays being
+published and sold as literature. My boss approved it. It was
+the first time she had given me the go­ahead to report and
+write a feature. It meant a lot to me that I\’d possibly have
+my name on a longer piece. I felt so happy that I set about
+the work immediately. I wrote a draft, which was of course
+open to making revisions. My boss reviewed it and just said,
+\“No, this isn\’t working.\” She didn\’t say why or offer advice
+about how to fix it. I knew that the first draft wouldn\’t be
+perfect; still, I wasn\’t prepared for such an instant rejection.
+It was almost as if she drained my energy and enthusiasm.
+① excited → disappointed ② irritated → sympathetic
+③ depressed → pleased ④ frustrated → grateful
+⑤ relaxed → jealous
+20. 다음 글에서 필자가 주장하는 바로 가장 적절한 것은?
+Suppose a child throws a ball to another child intending to
+start a game of catch. The other child is not watching and
+the ball hits the child on the head. The child cries and runs
+to tell the teacher about the aggressive behaviour of the
+other \‘naughty\’ child. Of course the child who threw the ball
+is innocent but, if we have defined aggression in terms of
+pure behaviour, the consequences of an act, then the child
+who throws the ball is unfairly guilty. Clearly we need to
+take intention into account when we define aggression. We
+can now move to a more complete definition if we say that
+aggression is any behaviour that is intended to hurt others.
+① 행동의 공격성을 판단할 때는 의도를 헤아려야 한다. ② 다툼이 발생하면 제삼자가 공정하게 중재해야 한다. ③ 잘못된 행동의 결과에 대한 책임을 져야 한다. ④ 운동할 때 안전을 최우선으로 고려해야 한다. ⑤ 어린이에게 협동의 중요성을 가르쳐야 한다
+21. 다음 글의 요지로 가장 적절한 것은?
+A new development may take years to evolve. If people
+are only informed of a new proposal in its final stages, their
+role is often limited to the negative one of rejecting it.
+Their protests are then seen by planners and developers as
+an expensive nuisance, so the public become the \‘enemy\’.
+Many people would like their voices to be heard from the
+initial stages of a proposed new development, instead of at
+the last stages of an application. Some architects and
+developers see this as a threat and insult to their
+professional skills, rather than a two­way process, beneficial
+to all parties. Of course the public cannot design a building,
+but its involvement at an early stage adds to the information
+available, and replaces a confrontational \‘them and us\’
+situation by a democratic process of participation and
+consultation. This situation is now changing as the
+importance of public consultation becomes increasingly
+recognised. 
+<br>* nuisance: 골칫거리
+① 주민 편의 시설의 설치를 위한 예산 확보가 시급하다. ② 건축물 개발의 초기 단계부터 대중의 참여가 필요하다. ③ 친환경 자재를 활용하는 것이 건축비 절감에 효과적이다. ④ 개발 과정에서 지역 주민 간 갈등이 심화하는 경향이 있다. ⑤ 거주자의 개별적 요구를 수용하는 건축 설계가 증가하고 있다.
+22. 다음 글의 주제로 가장 적절한 것은?
+Birds, as a whole group, are more sensitive to changes in
+their environment than other animals, so when they start
+falling off perches we should all be troubled. They are in
+the forward­most trench of nature\’s resistance against the
+relentless attrition of environmental degradation. Our birds
+are nature\’s early warning system and the scientists are
+telling us that if we don\’t start acting on their distress
+signals, it won\’t be long before the rest of the animal world
+is overrun as well. The populations of many species are
+declining rapidly because habitats are being destroyed or
+undermined, food sources are disappearing and, tricked by
+the increasingly weird and unstable weather, the birds\’
+migration and breeding patterns are changing. In short, birds
+are confused and under stress. Just because you can hear
+your robins, goldfinches, and sparrows chirping away happily
+in the garden every morning, don\’t be fooled into thinking
+that all is well in \‘birdworld\’. 
+<br>* attrition: 소모
+① controversies over how to preserve birds\’ habitats
+② changes in bird behavior due to the climate change
+③ competition among bird species over limited food sources
+④ necessity of paying close attention to the declining bird
+population
+⑤ relationships between birds\’ migration and breeding
+patterns
+23. 다음 글의 제목으로 가장 적절한 것은?
+Appealing though it might be to offload the responsibility
+for teaching our students basic knowledge to their
+elementary school teachers or to the Internet, the research
+of cognitive psychologists who study learning and the basic
+study habits of most students suggest that we cannot do
+this. One of our first and most important tasks as teachers
+is to help students develop a rich body of knowledge in our
+content areas — without doing so, we handicap considerably
+their ability to engage in cognitive activities like thinking
+and evaluating and creating. As cognitive psychologist Daniel
+Willingham argued, you can\’t think creatively about
+information unless you have information in your head to
+think about. \“Research from cognitive science has shown,\” he
+explained, \“that the sorts of skills that teachers want for
+their students — such as the ability to analyze and think
+critically — require extensive factual knowledge.\” We have to
+know things, in other words, to think critically about them.
+① Critical Thinking: A Must for Creativity
+② Factual Knowledge Is No Longer Required
+③ Does Learning Happen Only in the Classroom?
+④ Knowledge: A Cornerstone for Cognitive Activities
+⑤ Physical Activities Enhance Cognitive Development
+24. 다음 도표의 내용과 일치하지 <span style=\"text-decoration:underline;\">않는</span> 것은?
+The above graph shows what type of content a sample of
+1,091 online consumers from 11 countries in 2016 tended
+to read or watch thoroughly, and what they tended to skim.
+① The percentage of people who consumed videos
+thoroughly was the highest, followed by social media posts.
+② Less than thirty percent of the respondents answered
+they read or watched blogs and podcasts thoroughly,
+respectively. ③ Blogs, social media posts, and news articles
+were top three contents which were most likely to be
+skimmed by online consumers. ④ Videos showed the
+largest percentage point gap between \“Consume thoroughly\”
+and \“Skim,\” whereas research content showed the smallest.
+⑤ The percentage of respondents who consumed news
+articles thoroughly was more than twice that of
+respondents who consumed podcasts thoroughly.
+25. Nicolas Appert에 관한 다음 글의 내용과 일치하지 <span style=\"text-decoration:underline;\">않는</span> 것은?
+Nicolas Appert was born in Châlons­sur­Marne, on the
+edge of France\’s Champagne region, in 1749. He became an
+accomplished chef and served in the kitchens of various
+noblemen before setting up as a confectioner in Paris in
+1781. In this line of work he was necessarily aware of the
+use of sugar to preserve fruit, and he wondered whether it
+could be used to preserve other foods. As his interest in
+food preservation grew he began to experiment with storing
+food in sealed champagne bottles. In 1795 he moved to the
+village of Ivry­sur­Seine, where he began to offer preserved
+foods for sale, and in 1804 he set up a small factory to
+produce them. By this time some of his preserved food had
+been tested by the French navy, which was impressed by its
+quality. Appert had devised his methods solely by
+experiment and had no idea why it worked. 
+<br>* confectioner: 제과업자
+① 뛰어난 요리사로 여러 귀족의 주방에서 일했다. ② 과일 보존에 설탕을 사용하는 것을 알았다. ③ 식품을 샴페인 병에 밀봉하여 저장하는 실험을 했다. ④ 1804년에 보존 식품 생산을 위한 작은 공장을 세웠다. ⑤ 식품 보존의 원리를 이해한 후 실험을 통해 확인했다. 
+
+26. Greenwoods Business Start­up Academy에 관한 다음 안내
+문의 내용과 일치하지 <span style=\"text-decoration:underline;\">않는</span> 것은?
+<div class=\"joe_example_box\">
+<h1>Greenwoods Business Start­up Academy</h1>
+Greenwoods Business Start­up Academy
+for teens is a one­week residential
+program that offers students hands­on, real
+world training in \“how to start a business.\”<br>
+<br>
+<h3>■ Dates</h3>: January 8-14, 2018<br>
+<h3>■ Participants</h3>: high school students (grades 9-12)<br>
+<h3>■ Fee</h3>: $500 for living on campus for one week
+including room, board, books, field trips and classes<br>
+<br>
+<h3>■ Additional Information</h3><br>
+- On the last day, the business plan competition is
+held, and the winning team obtains $1,500.<br>
+- This program is limited to only 100 high school
+students.<br>
+<br>
+Register now at the Greenwoods University website.
+Questions? Call 514­234­9876 or email at
+s_christen@gwu.edu.
+</div>
+① 1주일 동안 창업에 관해 배운다. ② 9학년에서 12학년까지의 고등학생이 참가한다. ③ 숙박비는 참가비와 별도로 지불해야 한다. ④ 사업 계획 경진 대회가 마지막 날 열린다. ⑤ 참가 인원이 100명으로 제한되어 있다.
+
+27. Root Garden Club에 관한 다음 안내문의 내용과 일치하는 것은?
+<div class=\"joe_example_box\">
+<h1>Root Garden Club</h1>
+Join our club and grow your own garden!
+This club is open to any children aged
+7-15 .<br>
+<br>
+∙ Place: Rainbow Cottage at Oldwich<br>
+∙ Time: You can access your garden anytime. <br>
+∙ Class: We will hold monthly classes the 3rd
+Saturday of each month. Classes will be
+approximately one hour long. <br>
+<br>
+∙ Details<br>
+- Each garden space is automatically watered, so
+you don\’t have to come to water your garden. <br>
+- The classes will alternate between cooking
+lessons and gardening lessons. <br>
+- Prior to the cooking lessons, we will email out a
+list of fruits, vegetables, or supplies that you will
+need to bring.<br>
+<br>
+For more information, visit our website at www.rootgarden.org.
+</div>
+ ① 모든 연령의 아이들이 참여할 수 있다. ② 매달 두 번째 토요일에 수업이 진행된다. ③ 물을 주기 위해 텃밭을 매주 방문해야 한다. ④ 요리 수업과 원예 수업이 교대로 진행된다. ⑤ 요리 수업에 필요한 물품과 재료는 모두 제공된다.
+
+28. 다음 글의 밑줄 친 부분 중, 어법상 <span style=\"text-decoration:underline;\">틀린</span> 것은?
+People seeking legal advice should be assured, when
+discussing their rights or obligations with a lawyer, ① <span style=\"text-decoration:underline;\">which</span>
+the latter will not disclose to third parties the information
+provided. Only if this duty of confidentiality is respected
+② <span style=\"text-decoration:underline;\">will people</span> feel free to consult lawyers and provide the
+information required for the lawyer to prepare the client\’s
+defense. Regardless of the type of information ③ <span style=\"text-decoration:underline;\">disclosed</span>, clients must be certain that it will not be used against them
+in a court of law, by the authorities or by any other party.
+It is generally considered to be a condition of the good
+functioning of the legal system and, thus, in the general
+interest. Legal professional privilege is ④ <span style=\"text-decoration:underline;\">much</span> more than an
+ordinary rule of evidence, limited in its application to the
+facts of a particular case. It is a fundamental condition on
+which the administration of justice as a whole ⑤ <span style=\"text-decoration:underline;\">rests</span>. 
+<br>* confidentiality: 비밀 유지
+
+29. (A), (B), (C)의 각 네모 안에서 문맥에 맞는 낱말로 가장 적
+절한 것은[3점]? 
+In literature as distinct from journalism, the ablest writers
+will never assume that the bare bones of a story can be
+(A) [enough / insufficient] to win over their audience. They
+will not suppose that an attack or a flood or a theft must in
+and of itself carry some intrinsic degree of interest which
+will cause the reader to be appropriately moved or outraged.
+These writers know that no event, however shocking, can
+ever guarantee (B) [detachment / involvement]; for this latter
+prize, they must work harder, practicing their distinctive
+craft, which means paying attention to language and keeping
+a tight rein on pace and structure. In certain situations,
+creative writers may even choose to (C) [emphasize /
+sacrifice] strict accuracy, and rather than feel that they are
+thereby carrying out a criminal act, they will instead
+understand that falsifications may occasionally need to be
+committed in the service of a goal higher still than accuracy.
+(A) ······ (B) ······ (C)
+① enough ······ detachment ······ emphasize
+② enough ······ involvement ······ sacrifice
+③ enough ······ involvement ······ emphasize
+④ insufficient ······ detachment ······ emphasize
+⑤ insufficient ······ involvement ······ sacrifice
+
+30. 밑줄 친 부분이 가리키는 대상이 나머지 넷과 <span style=\"text-decoration:underline;\">다른</span> 것은?
+A middle­aged man once asked a young mindfulness
+teacher for meditation instructions in plain language. He
+suggested that ① <span style=\"text-decoration:underline;\">the man</span> carve out five or ten minutes
+every day to sit comfortably or lie down and focus on his
+breathing. When thoughts came to mind, the young teacher
+told him to ignore them and go back to focusing on his
+breath. Although the middle­aged man remembered the
+instructions of ② <span style=\"text-decoration:underline;\">his teacher</span>, he couldn\’t follow them. When
+his mind got busy, he was sucked into a mental loop of
+analyzing his problems. When ③ <span style=\"text-decoration:underline;\">he</span> wasn\’t thinking, he\’d get
+bored and zone out. Either way, ④ <span style=\"text-decoration:underline;\">this hopeful new
+meditator</span> didn\’t feel that his time was well spent. When he
+was thinking and meditating, he figured he\’d be better off
+sitting at his desk, and when he zoned out while meditating,
+⑤ <span style=\"text-decoration:underline;\">he</span> figured he\’d be better off daydreaming on a long chair
+in the backyard.
+
+31. 다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오. 
+One characteristic of people who have achieved peace of
+mind is their independence. They trust their instincts.
+Nobody can tell them what to think if their inner voices say
+otherwise. Brendan O\’Regan tells about a doctoral student
+who placed an ad in an Idaho newspaper asking if anyone
+within a 300­mile radius had experienced a remission.
+Twenty­five people replied. She noticed that many of them
+were farmer\’s wives who had in common a strong faith in ____________________. When she asked one of her interview
+subjects how she had felt when the doctor told her she had
+a terminal illness, the woman simply said, \“I figured that
+was his opinion. We\’re used to being told all these things by
+all these experts from the federal government who come in
+and look at the soil. They say \‘Don\’t plant corn over there
+because it won\’t grow,\’ and you plant it and it grows
+beautifully. So you realize the experts don\’t know
+everything. When the doctor told me I was going to die in
+six months, I said \‘What does he know, he\’s only an
+expert!\’\” 
+<br>* remission: (병의) 회복
+① their own judgment ② their land and home
+③ medical development ④ social security system
+⑤ agricultural technology
+32. 다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오[3점]. 
+So closely is sniffing tied to odor perception that people
+routinely sniff when they are asked to imagine a smell.
+Without prompting, they take larger sniffs when imagining
+pleasant odors and smaller ones when imagining malodors.
+During visual imagery the eyes explore an imagined scene
+using the same scan paths made when viewing the actual
+visual scene. Preventing eye movements during visual
+imagery — by having people stare at a stationary target —
+reduces the quality of the image. Smell researcher Noam
+Sobel found that, similarly, imagined odors were more vivid
+when people could sniff than when they were wearing nose
+clips and unable to sniff. Actually sniffing increased the
+unpleasantness of an imagined bad smell (urine) and
+increased the pleasantness of a good one (flowers). Sniffing
+at an imaginary odor isn\’t an absent­minded habit — it\’s a
+behavior that ____________________. 
+
+<br>* malodor: 고약한 냄새
+① enhances our mobility when we are in danger
+② mixes various senses into an integrated image
+③ compensates for the visual deficiency in the dark
+④ improves the mental image we are trying to create
+⑤ helps us relate ourselves with a particular natural object
+33. 다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오[3점]. 
+People change over time, often for the better. Maturity,
+wisdom, patience, and many other strengths can result from
+the gradual accumulation of life experiences. But do these
+qualities have to develop slowly? Researcher Timothy Carey
+and colleagues recently examined the idea that ____________________. They conducted structured interviews
+with people who had just finished psychotherapy. Reports of
+aha moments abounded. One interviewee said that he could
+\“visualize the point\” at which he changed; another said, \“I
+could actually hear it.\” Many of them could identify the
+moment at which they had their realizations, such as in a
+swimming pool with a spouse or in a particular meeting with
+a therapist. Some used familiar metaphors to describe their
+ahas, such as a light being turned on, a button being
+pressed, a click, or a \“\‘ping\’ and then it was like I could see
+things clearly.\” Personal growth doesn\’t have to be a glacial
+process. As physician­author Oliver Wendell Holmes, Sr.,
+wrote, \“A moment\’s insight is sometimes worth a life\’s
+experience.\” 
+① human attention span is surprisingly short
+② one\’s strengths and weaknesses are not fixed
+③ insights can be shortcuts to positive personal change
+④ life experiences become more meaningful when shared
+⑤ a single standard cannot measure one\’s physical growth
+34. 다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오[3점]. 
+Renewal and reform always depend on a capacity for going
+backwards to go forward. Key to this process is a search
+within one\’s own mind for a model according to which
+reformed practice can be organized. Architects have long
+appealed to a primitive hut as just such a model. It is a
+structure thought to provide access as close to the first
+principles of architecture as it is possible to get, yet traces
+of this structure exist nowhere other than in the mind\’s eye
+of the architect searching for it. Nonetheless, absence of the
+primitive hut from physical reality does little to diminish its
+importance for the renewal of present practices. If a desired
+(or required) thing resides in paradise, and no current map
+indicates its location, getting to it will only be possible via
+dreams and wishes. Reconstructions of it will necessarily be
+interpretations based on ____________________. Even though it
+is impossible to get there, returning to paradise nonetheless
+remains a reasonable destination for the memory, still able,
+by way of example, to fulfill its promise to the here and
+now. 
+① regularities within physical reality beyond the origin
+② distortions due to the ignorance of evaluation models
+③ varieties of geographical locations of modern structures
+④ potentials that arise from the daring cutoff from the past
+practices
+⑤ resemblances modeled after a non­existent object forever
+beyond our reach
+35. 다음 글에서 전체 흐름과 관계 <span style=\"text-decoration:underline;\">없는</span> 문장은?
+Large satellites for collecting solar power and transmitting
+it to the Earth have been the subject of much study. Their
+potential is vast indeed. ①The energy from the Sun that
+reaches the Earth over the course of just three days is
+equal to the energy in the fossil fuels needed to keep the
+human race supplied with power for 100 years at the
+present rate of consumption. ②Many engineering problems
+of transmitting the power back to the Earth remain unsolved,
+and it remains unclear if and when solar power will become
+commercially competitive. ③A satellite of just 155 miles
+(250 km) in diameter could supply all of our present energy
+needs, assuming 10% overall efficiency, with a very low
+carbon footprint. ④Solar panels in orbit are always in
+sunlight, they can always point directly at the Sun, and the
+radiation from the Sun is not reduced by atmospheric
+absorption. ⑤As a result, the energy intake for cells in
+orbit is on average about ten times greater than that of
+terrestrial ones.
+① 1 ② 2 ③ 3 ④ 4 ⑤ 5 
+
+36. 주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오[3점]. 
+<div class=\"joe_example_box\">
+ The evolution in the West from the late seventeenth
+century onwards of the idea of the aesthetic in music
+produced musical forms which were specifically intended
+to be listened to by a knowledgeable public and
+performed only by experts and masters.
+</div>
+(A) To this extent, it can be claimed that most cultures, if
+not all of them, have both communal music­making
+where everyone participates and where the notion of
+musical talent is irrelevant, and special ritual and
+ceremonial music where only the specially talented and
+trained perform, and where the rest listen and
+participate as observers.<br>
+(B) In addition to such events, there was also communal
+music­making, especially at festivals such as the Winter
+Solstice, Harvest time, Spring time, and other secular
+celebrations where everyone participated. Music in the
+Christian church is similarly organised with communally
+sung hymns, anthems, and other liturgical items sung by
+the specially trained choir.<br>
+(C) That is, specially trained musicians performed and the
+audience was expected to contemplate the musical
+aesthetic as they listened. It is from this tradition that
+the instrumental and vocal forms of modern western
+music have evolved. <br>
+
+<br>* secular: 세속적인 *
+<br>* liturgical: 예배용의
+① (A) － (C) － (B) ② (B) － (A) － (C)
+③ (B) － (C) － (A) ④ (C) － (A) － (B)
+⑤ (C) － (B) － (A)
+37. 주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오. 
+<div class=\"joe_example_box\">
+ The force of gravity is always attractive. It is a force
+pulling together any two things that have mass. Any
+amount of mass will cause the attraction, but the more
+mass the stronger the force.
+</div>
+(A) That\’s because objects always have a positive amount
+of mass. There is no such thing as negative mass. It\’s
+not like electric charge that comes in both positive and
+negative values.<br>
+(B) That\’s why a brick is heavier than a balloon, heavier
+and harder to hold or move in opposition to the force of
+gravity. The force also depends on the distance between
+the objects: the greater the distance the weaker the
+force.<br>
+(C) The attraction gets weaker and weaker as the objects
+get further apart, but it never disappears altogether.
+The force never goes to zero. And it never pushes
+things away.<br>
+① (A) － (C) － (B) ② (B) － (A) － (C)
+③ (B) － (C) － (A) ④ (C) － (A) － (B)
+⑤ (C) － (B) － (A)
+
+38. 글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오[3점]. 
+<div class=\"joe_example_box\">
+Should two ideas directly contradict one another,
+\“resistance occurs\” and \“concepts become forces when
+they resist one another.\”
+</div>
+According to Johann Herbart, a German philosopher, ideas
+form as information from the senses combines. The term he
+used for ideas — Vorsfellung — encompasses thoughts, mental
+images, and even emotional states. These make up the entire
+content of the mind, and Herbart saw them not as static but
+dynamic elements, able to move and interact with one
+another. (①) Ideas, he said, can attract and combine with
+other ideas or feelings, or repulse them, rather like magnets.
+(②) Similar ideas, such as a color and tone, attract each
+other and combine to form a more complex idea. (③)　 
+However, if two ideas are unalike, they may continue to
+exist without association. (④) This causes them to weaken
+over time, so that they eventually sink below the \“threshold
+of consciousness.\” (⑤) They repel one another with an
+energy that propels one of them beyond consciousness, into a
+place that Herbart referred to as \“a state of tendency\”; and
+we now know as \“the unconscious.\” 
+① 1 ② 2 ③ 3 ④ 4 ⑤ 5 
+
+<br>* repulse: 물리치다
+39. 글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오. 
+<div class=\"joe_example_box\">
+In order to lighten the weight of the logs to be shifted,
+some inventive soul cut two cross sections out of a log
+and put a pole through the middle of both, making a
+wheel and axle.
+</div>
+The wheel has been around five thousand years, more or
+less, so archaeologists tell us. (①) Someone of our
+forefathers early on noticed that a round log was easier to
+roll than to carry. (②) The next step was to figure out
+that heavy objects could be moved by rolling them on three
+logs, keeping two logs under the load and shifting the log
+that rolled out the back up to the front. (③) The next
+step was to fit a platform on the axle in such a way that
+the axle stayed in one place and the wheels turned round
+and round. (④) This ancient inventor had thus invented
+the wagon that five thousand years later became a modern
+car. (⑤) The wheel business began, speculatively, in
+Mesopotamia and from there spread to the rest of the Old
+World — Europe, Africa, and Asia. 
+<br>* axle: (바퀴의) 굴대, 차축
+① 1 ② 2 ③ 3 ④ 4 ⑤ 5 
+40. 다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A),
+(B)에 들어갈 말로 가장 적절한 것은?
+<div class=\"joe_example_box\">
+ Perspective is defined as the art of picturing objects
+as they appear to the eye. We have been taught to
+represent distant objects as smaller, thereby giving the
+illusion of depth. But are they really smaller? The child
+knows that the man fifty feet away is just as big as the
+one five feet away. So why draw one smaller than the
+other? The child\’s drawings are not reproductions of an
+optical image. He uses size to impart emphasis and
+importance. He draws his concept of the object. His
+drawing is consequently more meaningful than a faithful
+reproduction. Objectivity can be achieved by photography.
+Many true artists use distortion, exaggeration, or
+reduction to essentials. The child draws the man bigger
+than the tree in his front yard because to him the man
+is more significant. For the same reason, we see the
+person bigger than the house.
+</div>
+<div style=\"text-align: center;font-weight:bold;\">↓</div>
+<div class=\"joe_example_box\">
+Children\’s drawings <span style=\"text-decoration:underline;\">(A)</span> the expression of depth,
+and the size of an object in the drawings reveals its
+<span style=\"text-decoration:underline;\">(B)</span> in the children\’s mind.
+</div>
+(A) ··· (B)
+① lack ··· significance 
+② lack ··· availability
+③ reflect ··· accuracy 
+④ reflect ··· significance
+⑤ highlight ··· accuracy
+
+41. 윗글의 제목으로 가장 적절한 것은?
+<div class=\"joe_example_box\">
+ Traditionally, systems have been designed and developed
+from a technology­centered perspective. Engineers developed
+the sensors and systems that were needed to perform each
+function. They then provided a display for each system that
+informed the operator of how well that particular system
+was operating or its present status. So, for example, in the
+aircraft cockpit a separate display was provided for altitude,
+airspeed, engine temperature, etc. As technology improved,
+more and more displays were added. People were left with
+the job of trying to keep pace with the dramatic growth of
+data created by this process. In the face of changing tasks
+and situations, the operator is called upon to find, sort,
+integrate, and process the information that is needed from
+all that which is available, leading inevitably to an
+information gap. Unfortunately, the human has certain information
+processing bottlenecks. People can only pay attention to a
+certain amount of information at once. As the display of
+data in these systems is centered around the technologies
+producing them, it is often scattered and not ideally suited
+to support human tasks. A considerable amount of
+additional work is required to find what is needed and
+extra mental processing is required to calculate the
+information the operator really wants to know. This
+inevitably leads to higher than necessary workload and
+error. has become harder and harder to do.
+</div>
+① Calculation Practice, No More in Demand Today
+② How Fast Is Technology Improving Human Life?
+③ Is Technology­Centered Design Suitable for Humans?
+④ Displays Make Information Processing More Efficient
+⑤ Information Age: A By­Product of Collective Intelligence
+42. 윗글의 빈칸에 들어갈 말로 가장 적절한 것은[3점]? 
+<div class=\"joe_example_box\">
+ Traditionally, systems have been designed and developed
+from a technology­centered perspective. Engineers developed
+the sensors and systems that were needed to perform each
+function. They then provided a display for each system that
+informed the operator of how well that particular system
+was operating or its present status. So, for example, in the
+aircraft cockpit a separate display was provided for altitude,
+airspeed, engine temperature, etc. As technology improved,
+more and more displays were added. People were left with
+the job of trying to keep pace with the dramatic growth of
+data created by this process. In the face of changing tasks
+and situations, the operator is called upon to find, sort,
+integrate, and process the information that is needed from
+all that which is available, leading inevitably to an
+information gap. Unfortunately, the human has certain information
+processing bottlenecks. People can only pay attention to a
+certain amount of information at once. As the display of
+data in these systems is centered around the technologies
+producing them, it is often scattered and not ideally suited
+to support human tasks. A considerable amount of
+additional work is required to find what is needed and
+extra mental processing is required to calculate the
+information the operator really wants to know. This
+inevitably leads to higher than necessary workload and
+error. has become harder and harder to do.
+</div>
+① Falling out ② Saving up ③ Keeping up
+④ Paying back ⑤ Standing out
+
+43. 주어진 글 (A)에 이어질 내용을 순서에 맞게 배열한 것으로
+가장 적절한 것은?
+<div style=\"text-align: center;font-weight:bold;\">(A)</div>
+<div class=\"joe_example_box\">
+ Mark\’s brother, Reuben, got a new coat, so Mom
+decided to make Mark\’s winter coat out of Reuben\’s old
+one. She took it apart carefully, cleaned and brushed the
+pieces and soon there was a nice new coat for Mark. He
+liked the coat very much, but he did want new buttons
+on it. But Mom said, \“These are good buttons and look
+fine just as they did on Reuben\’s coat.\” He protested but
+when Mom had her mind made up, there was no point in
+wasting time trying to change it.
+</div>
+
+<div style=\"text-align: center;font-weight:bold;\">(B)</div>
+<div class=\"joe_example_box\">
+ Several days passed after the incident, and the family
+was ready for a trip to town. Of course Mark was
+wearing his new coat, and as he walked in front of Nellie,
+(a) <span style=\"text-decoration:underline;\">she</span> reached out again and butted him with her head.
+This time, Nellie was chewing on one of his coat buttons.
+\“What\’s the matter with that horse? Mark, have you been
+teasing her?\” asked Mom. \“No, I haven\’t,\” he said.
+</div>
+
+<div style=\"text-align: center;font-weight:bold;\">(C)</div>
+<div class=\"joe_example_box\">
+ One evening Mom said to Mark, \“Put on your coat and
+run out to the barn. Ask Dad to bring some eggs.\” He
+had been a frequent visitor to the barn, but the animals
+never paid much attention to him. This evening,
+however, was different. Just outside the barn door stood
+Nellie, their family horse. Before he could enter, (b) <span style=\"text-decoration:underline;\">she</span>
+banged her head against his stomach, and he sat down
+hard. Reuben and Dad came running when they heard
+Mark scream. Reuben said to Dad, \“Whatever got into that
+horse?\” \“I guess Mark startled (c) <span style=\"text-decoration:underline;\">her</span>,\” replied Dad.
+</div>
+
+<div style=\"text-align: center;font-weight:bold;\">(D)</div>
+<div class=\"joe_example_box\">
+ Reuben came up with the answer. He said, \“Nellie only
+goes after Mark when he has that coat on. I think Nellie
+remembers those buttons when they were on my coat. I
+trained (d) <span style=\"text-decoration:underline;\">her</span> to shake the front of my coat to get
+sugar. I think that\’s what she wants.\” Mom was doubtful,
+though. However, when Nellie continued to make life
+miserable for Mark whenever he wore that coat, (e) <span style=\"text-decoration:underline;\">she</span>
+began to change her mind. Finally one day she said, \“I
+believe Reuben is right. Maybe I\’d better change the
+buttons.\” So Mark\’s wish came true after all.
+</div>
+① (B) - (D) - (C) ② (C) - (B) - (D)
+③ (C) - (D) - (B) ④ (D) - (B) - (C)
+⑤ (D) - (C) - (B)
+44. 밑줄 친 (a)~(e) 중 가리키는 대상이 나머지 넷과 <span style=\"text-decoration:underline;\">다른</span> 것은?
+<div style=\"text-align: center;font-weight:bold;\">(A)</div>
+<div class=\"joe_example_box\">
+ Mark\’s brother, Reuben, got a new coat, so Mom
+decided to make Mark\’s winter coat out of Reuben\’s old
+one. She took it apart carefully, cleaned and brushed the
+pieces and soon there was a nice new coat for Mark. He
+liked the coat very much, but he did want new buttons
+on it. But Mom said, \“These are good buttons and look
+fine just as they did on Reuben\’s coat.\” He protested but
+when Mom had her mind made up, there was no point in
+wasting time trying to change it.
+</div>
+
+<div style=\"text-align: center;font-weight:bold;\">(B)</div>
+<div class=\"joe_example_box\">
+ Several days passed after the incident, and the family
+was ready for a trip to town. Of course Mark was
+wearing his new coat, and as he walked in front of Nellie,
+(a) <span style=\"text-decoration:underline;\">she</span> reached out again and butted him with her head.
+This time, Nellie was chewing on one of his coat buttons.
+\“What\’s the matter with that horse? Mark, have you been
+teasing her?\” asked Mom. \“No, I haven\’t,\” he said.
+</div>
+
+<div style=\"text-align: center;font-weight:bold;\">(C)</div>
+<div class=\"joe_example_box\">
+ One evening Mom said to Mark, \“Put on your coat and
+run out to the barn. Ask Dad to bring some eggs.\” He
+had been a frequent visitor to the barn, but the animals
+never paid much attention to him. This evening,
+however, was different. Just outside the barn door stood
+Nellie, their family horse. Before he could enter, (b) <span style=\"text-decoration:underline;\">she</span>
+banged her head against his stomach, and he sat down
+hard. Reuben and Dad came running when they heard
+Mark scream. Reuben said to Dad, \“Whatever got into that
+horse?\” \“I guess Mark startled (c) <span style=\"text-decoration:underline;\">her</span>,\” replied Dad.
+</div>
+
+<div style=\"text-align: center;font-weight:bold;\">(D)</div>
+<div class=\"joe_example_box\">
+ Reuben came up with the answer. He said, \“Nellie only
+goes after Mark when he has that coat on. I think Nellie
+remembers those buttons when they were on my coat. I
+trained (d) <span style=\"text-decoration:underline;\">her</span> to shake the front of my coat to get
+sugar. I think that\’s what she wants.\” Mom was doubtful,
+though. However, when Nellie continued to make life
+miserable for Mark whenever he wore that coat, (e) <span style=\"text-decoration:underline;\">she</span>
+began to change her mind. Finally one day she said, \“I
+believe Reuben is right. Maybe I\’d better change the
+buttons.\” So Mark\’s wish came true after all.
+</div>
+① (a) ② (b) ③ (c) ④ (d) ⑤ (e)
+45. 윗글에 관한 내용으로 적절하지 <span style=\"text-decoration:underline;\">않은</span> 것은?
+<div style=\"text-align: center;font-weight:bold;\">(A)</div>
+<div class=\"joe_example_box\">
+ Mark\’s brother, Reuben, got a new coat, so Mom
+decided to make Mark\’s winter coat out of Reuben\’s old
+one. She took it apart carefully, cleaned and brushed the
+pieces and soon there was a nice new coat for Mark. He
+liked the coat very much, but he did want new buttons
+on it. But Mom said, \“These are good buttons and look
+fine just as they did on Reuben\’s coat.\” He protested but
+when Mom had her mind made up, there was no point in
+wasting time trying to change it.
+</div>
+
+<div style=\"text-align: center;font-weight:bold;\">(B)</div>
+<div class=\"joe_example_box\">
+ Several days passed after the incident, and the family
+was ready for a trip to town. Of course Mark was
+wearing his new coat, and as he walked in front of Nellie,
+(a) <span style=\"text-decoration:underline;\">she</span> reached out again and butted him with her head.
+This time, Nellie was chewing on one of his coat buttons.
+\“What\’s the matter with that horse? Mark, have you been
+teasing her?\” asked Mom. \“No, I haven\’t,\” he said.
+</div>
+
+<div style=\"text-align: center;font-weight:bold;\">(C)</div>
+<div class=\"joe_example_box\">
+ One evening Mom said to Mark, \“Put on your coat and
+run out to the barn. Ask Dad to bring some eggs.\” He
+had been a frequent visitor to the barn, but the animals
+never paid much attention to him. This evening,
+however, was different. Just outside the barn door stood
+Nellie, their family horse. Before he could enter, (b) <span style=\"text-decoration:underline;\">she</span>
+banged her head against his stomach, and he sat down
+hard. Reuben and Dad came running when they heard
+Mark scream. Reuben said to Dad, \“Whatever got into that
+horse?\” \“I guess Mark startled (c) <span style=\"text-decoration:underline;\">her</span>,\” replied Dad.
+</div>
+
+<div style=\"text-align: center;font-weight:bold;\">(D)</div>
+<div class=\"joe_example_box\">
+ Reuben came up with the answer. He said, \“Nellie only
+goes after Mark when he has that coat on. I think Nellie
+remembers those buttons when they were on my coat. I
+trained (d) <span style=\"text-decoration:underline;\">her</span> to shake the front of my coat to get
+sugar. I think that\’s what she wants.\” Mom was doubtful,
+though. However, when Nellie continued to make life
+miserable for Mark whenever he wore that coat, (e) <span style=\"text-decoration:underline;\">she</span>
+began to change her mind. Finally one day she said, \“I
+believe Reuben is right. Maybe I\’d better change the
+buttons.\” So Mark\’s wish came true after all.
+</div>
+① 엄마는 Reuben의 코트로 Mark의 겨울 코트를 만들었다. ② Nellie는 Mark의 코트에 달린 단추를 씹었다. ③ Mark는 달걀을 직접 가져오려고 헛간으로 갔다. ④ Reuben과 아빠는 Mark의 비명을 듣고 달려왔다. ⑤ 엄마는 Mark의 코트 단추를 결국 바꿔 주기로 했다. 
