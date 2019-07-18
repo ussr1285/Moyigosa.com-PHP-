@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css?family=Noto+Sans+KR|Noto+Serif+KR:300&subset=korean');
+
+input[type=submit], #top img{
+    cursor: pointer;
+}
+
+
+#middle {
+    margin-top: 16px;
+    width: 100%;
+    height: auto;
+    background-color: white;
+    position: relative;
+    text-align: center;
+}
+
+#middle #signup_wrap {
+    width: 629px;
+    height: auto;
+    display: inline-block;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    position: relative;
+}
+
+#middle #signup_wrap .signup {
+    width: 100%;
+    text-align: left;
+    font-size: 60px;
+    color: #333232;
+    font-family: 'Noto Sans KR', sans-serif;
+}
+
+#middle form {
+    text-align: left;
+    margin-top: 32px;
+}
+
+#middle form span {
+    font-family: 'Noto Sans KR', sans-serif;
+}
+
+.id_check,
+.pw_r_check,
+.pw_check,
+.name_check,
+.email_check,
+.nick_check {
+    color: #9B9B9B;
+    font-size: 22px;
+}
+
+.id_text,
+.pw_text,
+.pw_r_text,
+.name_text,
+.email_text,
+.nick_text {
+    font-size: 25px;
+    color: #333232;
+}
+
+#middle form input[type=text],
+#middle form input[type=password],
+#middle form input[type=email] {
+    width: 629px;
+    height: 66px;
+    background-color: #E8E6E6;
+    margin-bottom: 32px;
+    font-size: 40px;
+    color: #333232;
+    font-family: 'Noto Sans KR', sans-serif;
+    padding-left: 15px;
+}
+
+#middle form input[type=submit] {
+    width: 629px;
+    height: 66px;
+    background-color: #72635B;
+    font-size: 25px;
+    color: #FFFFFF;
+    font-family: 'Noto Serif KR', serif;
+    padding-left: 15px;
+    margin-bottom: 10px;
+}
